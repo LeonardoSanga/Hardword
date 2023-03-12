@@ -40,5 +40,3 @@ encadeamento de objetos da classe Node, que, por sua vez, armazena cada letra ch
 ## Participantes:
 Leonardo Minguini Sanga
 <br/>Victor Gabriel Bonometo
-
-</br>
