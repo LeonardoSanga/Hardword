@@ -7,7 +7,7 @@ BancoDePalavras::BancoDePalavras(std::default_random_engine& maquinaAleatoria)
     carregaBancoDePalavras();
 }
 
-// sorteia a palavra
+// sorteia a palavra do banco de palavras
 std::string BancoDePalavras::pegaPalavraAleatoria() const {
     return palavras[maquinaAleatoria() % NUM_PALAVRAS];  
 }
